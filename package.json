@@ -1,0 +1,10 @@
+{
+  "name": "zulip-icons",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Zulip icon set, exported from Figma with provenance notes.",
+  "scripts": {
+    "export": "node export.mjs"
+  }
+}

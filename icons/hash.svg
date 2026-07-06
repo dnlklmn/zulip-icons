@@ -1,0 +1,5 @@
+<svg class="zi" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.zi{color:#3f3f46}@media(prefers-color-scheme:dark){.zi{color:#d4d4d8}}</style>
+  <title>hash</title>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 1C5.44772 1 5 1.44772 5 2V5H2C1.44772 5 1 5.44772 1 6C1 6.55228 1.44772 7 2 7H5V9H2C1.44772 9 1 9.44771 1 10C1 10.5523 1.44772 11 2 11H5V14C5 14.5523 5.44772 15 6 15C6.55228 15 7 14.5523 7 14V11H9V14C9 14.5523 9.44771 15 10 15C10.5523 15 11 14.5523 11 14V11H14C14.5523 11 15 10.5523 15 10C15 9.44771 14.5523 9 14 9H11V7H14C14.5523 7 15 6.55228 15 6C15 5.44772 14.5523 5 14 5H11V2C11 1.44772 10.5523 1 10 1C9.44771 1 9 1.44772 9 2V5H7V2C7 1.44772 6.55228 1 6 1ZM9 9V7H7V9H9Z" fill="currentColor"/>
+</svg>

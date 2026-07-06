@@ -1,0 +1,518 @@
+[
+  {
+    "slug": "arrow-left",
+    "nodeId": "1:546",
+    "variantName": "Icon=Arrow Left",
+    "description": ""
+  },
+  {
+    "slug": "asterisk-rectangle",
+    "nodeId": "1:582",
+    "variantName": "Icon=Asterisk Rectangle",
+    "description": ""
+  },
+  {
+    "slug": "at",
+    "nodeId": "1:551",
+    "variantName": "Icon=At",
+    "description": ""
+  },
+  {
+    "slug": "at-not",
+    "nodeId": "1:554",
+    "variantName": "Icon=At Not",
+    "description": ""
+  },
+  {
+    "slug": "attachment",
+    "nodeId": "1:542",
+    "variantName": "Icon=Attachment",
+    "description": ""
+  },
+  {
+    "slug": "bell-outline-marker",
+    "nodeId": "1:579",
+    "variantName": "Icon=Bell Outline Marker",
+    "description": ""
+  },
+  {
+    "slug": "bot",
+    "nodeId": "1:555",
+    "variantName": "Icon=Bot",
+    "description": ""
+  },
+  {
+    "slug": "bot-chat",
+    "nodeId": "1:587",
+    "variantName": "Icon=Bot Chat",
+    "description": ""
+  },
+  {
+    "slug": "box",
+    "nodeId": "1:573",
+    "variantName": "Icon=Box",
+    "description": ""
+  },
+  {
+    "slug": "calendar",
+    "nodeId": "1:574",
+    "variantName": "Icon=Calendar",
+    "description": ""
+  },
+  {
+    "slug": "cancel",
+    "nodeId": "1:591",
+    "variantName": "Icon=Cancel",
+    "description": ""
+  },
+  {
+    "slug": "chat-line",
+    "nodeId": "1:588",
+    "variantName": "Icon=Chat Line",
+    "description": ""
+  },
+  {
+    "slug": "chat-line-graph",
+    "nodeId": "1:531",
+    "variantName": "Icon=Chat Line Graph",
+    "description": ""
+  },
+  {
+    "slug": "chat-z",
+    "nodeId": "1:530",
+    "variantName": "Icon=Chat Z",
+    "description": ""
+  },
+  {
+    "slug": "check",
+    "nodeId": "1:541",
+    "variantName": "Icon=Check",
+    "description": ""
+  },
+  {
+    "slug": "chevron-down",
+    "nodeId": "1:585",
+    "variantName": "Icon=Chevron Down",
+    "description": ""
+  },
+  {
+    "slug": "chevron-down-square",
+    "nodeId": "1:572",
+    "variantName": "Icon=Chevron Down Square",
+    "description": ""
+  },
+  {
+    "slug": "chevron-left",
+    "nodeId": "1:569",
+    "variantName": "Icon=Chevron Left",
+    "description": ""
+  },
+  {
+    "slug": "chevron-right",
+    "nodeId": "1:584",
+    "variantName": "Icon=Chevron Right",
+    "description": ""
+  },
+  {
+    "slug": "chevron-up",
+    "nodeId": "1:564",
+    "variantName": "Icon=Chevron Up",
+    "description": ""
+  },
+  {
+    "slug": "code",
+    "nodeId": "1:563",
+    "variantName": "Icon=Code",
+    "description": ""
+  },
+  {
+    "slug": "cog",
+    "nodeId": "168:624",
+    "variantName": "Icon=Cog",
+    "description": ""
+  },
+  {
+    "slug": "copy",
+    "nodeId": "1:553",
+    "variantName": "Icon=Copy",
+    "description": ""
+  },
+  {
+    "slug": "document",
+    "nodeId": "37:11154",
+    "variantName": "Icon=Document",
+    "description": ""
+  },
+  {
+    "slug": "download",
+    "nodeId": "1:586",
+    "variantName": "Icon=Download",
+    "description": ""
+  },
+  {
+    "slug": "edit-square",
+    "nodeId": "1:557",
+    "variantName": "Icon=Edit Square",
+    "description": ""
+  },
+  {
+    "slug": "emoji",
+    "nodeId": "36:10920",
+    "variantName": "Icon=Emoji",
+    "description": ""
+  },
+  {
+    "slug": "equal",
+    "nodeId": "1:536",
+    "variantName": "Icon=Equal",
+    "description": ""
+  },
+  {
+    "slug": "expand",
+    "nodeId": "1:597",
+    "variantName": "Icon=Expand",
+    "description": ""
+  },
+  {
+    "slug": "face-frame",
+    "nodeId": "1:544",
+    "variantName": "Icon=Face Frame",
+    "description": ""
+  },
+  {
+    "slug": "feed",
+    "nodeId": "35:10837",
+    "variantName": "Icon=Feed",
+    "description": ""
+  },
+  {
+    "slug": "filter",
+    "nodeId": "1:558",
+    "variantName": "Icon=Filter",
+    "description": ""
+  },
+  {
+    "slug": "github",
+    "nodeId": "1:580",
+    "variantName": "Icon=GitHub",
+    "description": ""
+  },
+  {
+    "slug": "globe",
+    "nodeId": "1:543",
+    "variantName": "Icon=Globe",
+    "description": ""
+  },
+  {
+    "slug": "group",
+    "nodeId": "168:738",
+    "variantName": "Icon=Group",
+    "description": ""
+  },
+  {
+    "slug": "hash",
+    "nodeId": "1:590",
+    "variantName": "Icon=Hash",
+    "description": ""
+  },
+  {
+    "slug": "help",
+    "nodeId": "1:589",
+    "variantName": "Icon=Help",
+    "description": ""
+  },
+  {
+    "slug": "icon",
+    "nodeId": "1:583",
+    "variantName": "Icon=icon",
+    "description": ""
+  },
+  {
+    "slug": "inbox",
+    "nodeId": "35:10767",
+    "variantName": "Icon=Inbox",
+    "description": ""
+  },
+  {
+    "slug": "incoming",
+    "nodeId": "52:11378",
+    "variantName": "Icon=Incoming",
+    "description": ""
+  },
+  {
+    "slug": "invisible",
+    "nodeId": "1:540",
+    "variantName": "Icon=Invisible",
+    "description": ""
+  },
+  {
+    "slug": "key-outline",
+    "nodeId": "1:533",
+    "variantName": "Icon=Key Outline",
+    "description": ""
+  },
+  {
+    "slug": "laugh",
+    "nodeId": "1:538",
+    "variantName": "Icon=Laugh",
+    "description": ""
+  },
+  {
+    "slug": "line-height-big",
+    "nodeId": "1:547",
+    "variantName": "Icon=Line Height Big",
+    "description": ""
+  },
+  {
+    "slug": "line-height-small",
+    "nodeId": "1:578",
+    "variantName": "Icon=Line Height Small",
+    "description": ""
+  },
+  {
+    "slug": "link",
+    "nodeId": "1:567",
+    "variantName": "Icon=Link",
+    "description": ""
+  },
+  {
+    "slug": "link-2",
+    "nodeId": "1:562",
+    "variantName": "Icon=Link 2",
+    "description": ""
+  },
+  {
+    "slug": "list-restart",
+    "nodeId": "1:565",
+    "variantName": "Icon=List Restart",
+    "description": ""
+  },
+  {
+    "slug": "lock",
+    "nodeId": "1:561",
+    "variantName": "Icon=Lock",
+    "description": ""
+  },
+  {
+    "slug": "locked-outline",
+    "nodeId": "1:592",
+    "variantName": "Icon=Locked Outline",
+    "description": ""
+  },
+  {
+    "slug": "mail",
+    "nodeId": "1:571",
+    "variantName": "Icon=Mail",
+    "description": ""
+  },
+  {
+    "slug": "message",
+    "nodeId": "174:715",
+    "variantName": "Icon=Message",
+    "description": "Lucide"
+  },
+  {
+    "slug": "mic",
+    "nodeId": "173:641",
+    "variantName": "Icon=Mic",
+    "description": "https://feathericons.com/?query=mic"
+  },
+  {
+    "slug": "mic-off",
+    "nodeId": "173:645",
+    "variantName": "Icon=Mic Off",
+    "description": "https://feathericons.com/?query=mic"
+  },
+  {
+    "slug": "move",
+    "nodeId": "1:598",
+    "variantName": "Icon=Move",
+    "description": ""
+  },
+  {
+    "slug": "open-external",
+    "nodeId": "1:581",
+    "variantName": "Icon=Open External",
+    "description": ""
+  },
+  {
+    "slug": "outgoing",
+    "nodeId": "52:11371",
+    "variantName": "Icon=Outgoing",
+    "description": ""
+  },
+  {
+    "slug": "panel-left",
+    "nodeId": "1:566",
+    "variantName": "Icon=Panel Left",
+    "description": ""
+  },
+  {
+    "slug": "panel-left-dashed",
+    "nodeId": "1:570",
+    "variantName": "Icon=Panel Left Dashed",
+    "description": ""
+  },
+  {
+    "slug": "panel-right",
+    "nodeId": "1:594",
+    "variantName": "Icon=Panel Right",
+    "description": ""
+  },
+  {
+    "slug": "panel-right-dashed",
+    "nodeId": "1:568",
+    "variantName": "Icon=Panel Right Dashed",
+    "description": ""
+  },
+  {
+    "slug": "plus",
+    "nodeId": "1:595",
+    "variantName": "Icon=Plus",
+    "description": "https://feathericons.com/?query=plus 2px stroke"
+  },
+  {
+    "slug": "plus-square",
+    "nodeId": "27:8",
+    "variantName": "Icon=Plus Square",
+    "description": ""
+  },
+  {
+    "slug": "profile",
+    "nodeId": "1:537",
+    "variantName": "Icon=Profile",
+    "description": ""
+  },
+  {
+    "slug": "refresh",
+    "nodeId": "1:552",
+    "variantName": "Icon=Refresh",
+    "description": ""
+  },
+  {
+    "slug": "send",
+    "nodeId": "1:556",
+    "variantName": "Icon=Send",
+    "description": ""
+  },
+  {
+    "slug": "send-visible",
+    "nodeId": "1:560",
+    "variantName": "Icon=Send Visible",
+    "description": ""
+  },
+  {
+    "slug": "settings",
+    "nodeId": "1:576",
+    "variantName": "Icon=Settings",
+    "description": ""
+  },
+  {
+    "slug": "settings-3",
+    "nodeId": "1:539",
+    "variantName": "Icon=Settings 3",
+    "description": ""
+  },
+  {
+    "slug": "share-screen",
+    "nodeId": "174:704",
+    "variantName": "Icon=Share Screen",
+    "description": "https://feathericons.com/"
+  },
+  {
+    "slug": "star",
+    "nodeId": "37:11086",
+    "variantName": "Icon=Star",
+    "description": ""
+  },
+  {
+    "slug": "star-badge",
+    "nodeId": "1:575",
+    "variantName": "Icon=Star Badge",
+    "description": ""
+  },
+  {
+    "slug": "text-big",
+    "nodeId": "1:550",
+    "variantName": "Icon=Text Big",
+    "description": ""
+  },
+  {
+    "slug": "text-small",
+    "nodeId": "1:548",
+    "variantName": "Icon=Text Small",
+    "description": ""
+  },
+  {
+    "slug": "tiem",
+    "nodeId": "35:10797",
+    "variantName": "Icon=Tiem",
+    "description": ""
+  },
+  {
+    "slug": "triangle-down",
+    "nodeId": "1:577",
+    "variantName": "Icon=Triangle Down",
+    "description": ""
+  },
+  {
+    "slug": "unlock",
+    "nodeId": "1:559",
+    "variantName": "Icon=Unlock",
+    "description": ""
+  },
+  {
+    "slug": "upload-hdd",
+    "nodeId": "1:532",
+    "variantName": "Icon=Upload HDD",
+    "description": ""
+  },
+  {
+    "slug": "user-circle",
+    "nodeId": "1:549",
+    "variantName": "Icon=User Circle",
+    "description": ""
+  },
+  {
+    "slug": "user-settings",
+    "nodeId": "1:535",
+    "variantName": "Icon=User Settings",
+    "description": ""
+  },
+  {
+    "slug": "users",
+    "nodeId": "1:545",
+    "variantName": "Icon=Users",
+    "description": ""
+  },
+  {
+    "slug": "vdots",
+    "nodeId": "1:534",
+    "variantName": "Icon=Vdots",
+    "description": ""
+  },
+  {
+    "slug": "video",
+    "nodeId": "173:664",
+    "variantName": "Icon=Video",
+    "description": "https://feathericons.com/?query=mic"
+  },
+  {
+    "slug": "video-off",
+    "nodeId": "173:669",
+    "variantName": "Icon=Video Off",
+    "description": "https://feathericons.com/?query=mic"
+  },
+  {
+    "slug": "visible",
+    "nodeId": "1:593",
+    "variantName": "Icon=Visible",
+    "description": ""
+  },
+  {
+    "slug": "warning",
+    "nodeId": "70:56658",
+    "variantName": "Icon=Warning",
+    "description": ""
+  }
+]

@@ -1,0 +1,9 @@
+<svg class="zi" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.zi{color:#3f3f46}@media(prefers-color-scheme:dark){.zi{color:#d4d4d8}}</style>
+  <title>document</title>
+<path d="M10 12H5V11H10V12Z" fill="currentColor"/>
+<path d="M11 10H5V9H11V10Z" fill="currentColor"/>
+<path d="M8 8H5V7H8V8Z" fill="currentColor"/>
+<path d="M7 6H5V4H7V6Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.0459 2C9.33426 2 9.60894 2.12478 9.79883 2.3418L12.7529 5.7168C12.9124 5.89909 13 6.13375 13 6.37598V13L12.9951 13.1025C12.9472 13.573 12.573 13.9472 12.1025 13.9951L12 14H4C3.48232 14 3.05621 13.6067 3.00488 13.1025L3 13V3C3 2.44772 3.44772 2 4 2H9.0459ZM4 13H12V7H9.5C8.67157 7 8 6.32843 8 5.5V3H4V13ZM9 5.5C9 5.77614 9.22386 6 9.5 6H11.6709L9.0459 3H9V5.5Z" fill="currentColor"/>
+</svg>
