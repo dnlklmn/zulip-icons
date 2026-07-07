@@ -63,7 +63,7 @@
     "slug": "cancel",
     "nodeId": "1:591",
     "variantName": "Icon=Cancel",
-    "description": ""
+    "description": "Custom"
   },
   {
     "slug": "chat-line",
@@ -87,7 +87,7 @@
     "slug": "check",
     "nodeId": "1:541",
     "variantName": "Icon=Check",
-    "description": ""
+    "description": "https://lucide.dev/icons/check"
   },
   {
     "slug": "chevron-down",
@@ -327,7 +327,7 @@
     "slug": "move",
     "nodeId": "1:598",
     "variantName": "Icon=Move",
-    "description": ""
+    "description": "Custom"
   },
   {
     "slug": "open-external",
@@ -375,7 +375,7 @@
     "slug": "plus-square",
     "nodeId": "27:8",
     "variantName": "Icon=Plus Square",
-    "description": ""
+    "description": "https://lucide.dev/icons/square-plus modified 2px plus"
   },
   {
     "slug": "profile",

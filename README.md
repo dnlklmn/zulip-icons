@@ -18,11 +18,11 @@ Regenerate with `npm run export` (needs a Figma token — see below).
 | <img src="icons/bot-chat.svg" width="24" height="24" alt="bot-chat"> | `bot-chat` | — |
 | <img src="icons/box.svg" width="24" height="24" alt="box"> | `box` | — |
 | <img src="icons/calendar.svg" width="24" height="24" alt="calendar"> | `calendar` | — |
-| <img src="icons/cancel.svg" width="24" height="24" alt="cancel"> | `cancel` | — |
+| <img src="icons/cancel.svg" width="24" height="24" alt="cancel"> | `cancel` | Custom |
 | <img src="icons/chat-line.svg" width="24" height="24" alt="chat-line"> | `chat-line` | — |
 | <img src="icons/chat-line-graph.svg" width="24" height="24" alt="chat-line-graph"> | `chat-line-graph` | — |
 | <img src="icons/chat-z.svg" width="24" height="24" alt="chat-z"> | `chat-z` | — |
-| <img src="icons/check.svg" width="24" height="24" alt="check"> | `check` | — |
+| <img src="icons/check.svg" width="24" height="24" alt="check"> | `check` | https://lucide.dev/icons/check |
 | <img src="icons/chevron-down.svg" width="24" height="24" alt="chevron-down"> | `chevron-down` | — |
 | <img src="icons/chevron-down-square.svg" width="24" height="24" alt="chevron-down-square"> | `chevron-down-square` | — |
 | <img src="icons/chevron-left.svg" width="24" height="24" alt="chevron-left"> | `chevron-left` | — |
@@ -62,7 +62,7 @@ Regenerate with `npm run export` (needs a Figma token — see below).
 | <img src="icons/message.svg" width="24" height="24" alt="message"> | `message` | Lucide |
 | <img src="icons/mic.svg" width="24" height="24" alt="mic"> | `mic` | https://feathericons.com/?query=mic |
 | <img src="icons/mic-off.svg" width="24" height="24" alt="mic-off"> | `mic-off` | https://feathericons.com/?query=mic |
-| <img src="icons/move.svg" width="24" height="24" alt="move"> | `move` | — |
+| <img src="icons/move.svg" width="24" height="24" alt="move"> | `move` | Custom |
 | <img src="icons/open-external.svg" width="24" height="24" alt="open-external"> | `open-external` | — |
 | <img src="icons/outgoing.svg" width="24" height="24" alt="outgoing"> | `outgoing` | — |
 | <img src="icons/panel-left.svg" width="24" height="24" alt="panel-left"> | `panel-left` | — |
@@ -70,7 +70,7 @@ Regenerate with `npm run export` (needs a Figma token — see below).
 | <img src="icons/panel-right.svg" width="24" height="24" alt="panel-right"> | `panel-right` | — |
 | <img src="icons/panel-right-dashed.svg" width="24" height="24" alt="panel-right-dashed"> | `panel-right-dashed` | — |
 | <img src="icons/plus.svg" width="24" height="24" alt="plus"> | `plus` | https://feathericons.com/?query=plus 2px stroke |
-| <img src="icons/plus-square.svg" width="24" height="24" alt="plus-square"> | `plus-square` | — |
+| <img src="icons/plus-square.svg" width="24" height="24" alt="plus-square"> | `plus-square` | https://lucide.dev/icons/square-plus modified 2px plus |
 | <img src="icons/profile.svg" width="24" height="24" alt="profile"> | `profile` | — |
 | <img src="icons/refresh.svg" width="24" height="24" alt="refresh"> | `refresh` | — |
 | <img src="icons/send.svg" width="24" height="24" alt="send"> | `send` | — |
